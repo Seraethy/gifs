@@ -1,0 +1,10 @@
+gifs = ["https://media1.tenor.com/images/234d471b1068bc25d435c607224454c9/tenor.gif?itemid=3532081",
+"https://media.giphy.com/media/l2QDM9Jnim1YVILXa/giphy.gif",
+"https://media.giphy.com/media/wnsgren9NtITS/giphy.gif",
+"https://media.giphy.com/media/DjczAlIcyK1Co/giphy.gif",
+"https://gifimage.net/wp-content/uploads/2017/01/Anime-hug-GIF-Image-Download-27.gif",
+"http://38.media.tumblr.com/b22e5793e257faf94cec24ba034d46cd/tumblr_nldku9v7ar1ttpgxko1_500.gif",
+"http://31.media.tumblr.com/a4119e7feb02c0094a6628e6b7cf3924/tumblr_mvqfcgI5eQ1s2p1gco1_500.gif",
+"https://i.pinimg.com/originals/73/7e/3a/737e3a166fd47efd613252867a2ef437.gif",
+"http://gifimage.net/wp-content/uploads/2017/01/Anime-hug-GIF-Image-Download-10.gif",
+"https://uploads.disquscdn.com/images/fc6a141257ce588adfc8cb9010fc6967440f96d2de7b36891230dfcf06676775.gif"]
